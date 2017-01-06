@@ -1,0 +1,18 @@
+{
+  "name": "ava_nock_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harry Moreno",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "ava": "^0.17.0",
+    "axios": "^0.15.3",
+    "nock": "^9.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
